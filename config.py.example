@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+
+fromaddr = "@gmail.com"
+toaddr = ""
+emailpwd = ""
+currentIP = "127.0.0.1"
